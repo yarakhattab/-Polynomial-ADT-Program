@@ -87,7 +87,8 @@ File I/O in C for reading and writing expressions.
 
 Menu-driven program design for user interaction.
 
-## 👩‍💻 Developed by
+## ✍️ Author
+
 Yara Khattab
 
 
