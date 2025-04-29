@@ -46,7 +46,7 @@ Each line in the file should represent a single polynomial expression. Terms can
 Spaces are allowed and will be parsed correctly.
 
 ---
-📜 Menu Options
+## 📜 Menu Options
 When you run the program, you'll see a menu like this:
 ********* Welcome to Polynomial ADT Program ***********
 
@@ -62,7 +62,7 @@ Please choose the operation you want from 1 to 8:
 8. Exit from the program
 Use the corresponding number to perform each operation.
 
-📤 Output Example (result.txt)
+## 📤 Output Example (result.txt)
 Results of Operations are :
 
 Addition Result:
@@ -74,7 +74,7 @@ Subtraction Result:
 Multiplication Result:
 -15x^6 + 9x^4 + ...
 
-📚 Learning Objectives
+## 📚 Learning Objectives
 This project demonstrates:
 
 Use of linked lists to manage dynamic polynomial terms.
@@ -87,7 +87,11 @@ File I/O in C for reading and writing expressions.
 
 Menu-driven program design for user interaction.
 
-👩‍💻 Developed by
+## 👩‍💻 Developed by
 Yara
+
+
 GitHub: yara khattab
+
+
 Email: yarakhattab16@gmail.com
