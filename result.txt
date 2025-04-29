@@ -1,0 +1,10 @@
+Results of Operations are :
+
+Addition Result:
+7x^9 + -10x^7 + 14x^5 + -10x^3 + 7x^2 + 8x^0
+
+Subtraction Result:
+-7x^9 + 10x^7 + -14x^5 + 4x^3 + -3x^2 + -8x^0
+
+Multiplication Result:
+-5880x^27 + -6720x^18 + -6230x^24 + -7120x^15 + 1400x^25 + 1600x^16 + -1050x^22 + -1200x^13 + 10640x^26 + 12160x^17 + -3500x^23 + -4000x^14 + 7980x^21 + 9120x^12 + -3360x^20 + -3840x^11
