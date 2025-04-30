@@ -92,7 +92,8 @@ Menu-driven program design for user interaction.
 Yara Khattab
 
 
-GitHub: yara khattab
+📧 Email: yarakhattab16@gmail.com
 
 
-Email: yarakhattab16@gmail.com
+
+🔗 GitHub: github.com/yarakhattab
