@@ -96,4 +96,4 @@ Yara Khattab
 
 
 
-🔗 GitHub: github.com/yarakhattab
+🔗 [GitHub: @yarakhattab](https://github.com/yarakhattab)
